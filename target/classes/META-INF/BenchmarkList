@@ -1,7 +1,0 @@
-JMH S 32 com.moyucoding.test.TypeConvTest S 60 com.moyucoding.test.jmh_generated.TypeConvTest_test1_jmhTest S 5 test1 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
-JMH S 32 com.moyucoding.test.TypeConvTest S 60 com.moyucoding.test.jmh_generated.TypeConvTest_test2_jmhTest S 5 test2 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
-JMH S 32 com.moyucoding.test.TypeConvTest S 60 com.moyucoding.test.jmh_generated.TypeConvTest_test3_jmhTest S 5 test3 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
-JMH S 28 com.moyucoding.test2.MapTest S 56 com.moyucoding.test2.jmh_generated.MapTest_test1_jmhTest S 5 test1 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
-JMH S 28 com.moyucoding.test2.MapTest S 56 com.moyucoding.test2.jmh_generated.MapTest_test2_jmhTest S 5 test2 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
-JMH S 28 com.moyucoding.test2.MapTest S 56 com.moyucoding.test2.jmh_generated.MapTest_test3_jmhTest S 5 test3 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
-JMH S 28 com.moyucoding.test2.MapTest S 56 com.moyucoding.test2.jmh_generated.MapTest_test4_jmhTest S 5 test4 S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E L 1 19 -Djmh.stack.lines=3 E E E E 
