@@ -1,0 +1,9 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,test2/MapTest.test1
+inline,test2/MapTest.test2
+inline,test2/MapTest.test3
+inline,test2/MapTest.test4
